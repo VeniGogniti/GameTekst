@@ -1,6 +1,4 @@
 #include <iostream>
+#include "MainWindow.hpp"
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
+wxIMPLEMENT_APP(MyApp);
